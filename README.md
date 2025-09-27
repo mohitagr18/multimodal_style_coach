@@ -166,21 +166,6 @@ For a query like *"What should I wear with this vintage leather jacket for a roc
 
 Uses `InMemorySessionService` for handling concurrent agent sessions and maintaining conversation context.
 
-### Error Handling
-
-Comprehensive error handling for:
-- Missing input validation
-- File existence checking
-- JSON parsing failures
-- API request failures
-- Agent processing errors
-
-### Performance Optimization
-
-- Async/await patterns for concurrent processing
-- Efficient agent orchestration
-- Minimal API calls per request
-- Cached session management
 
 ***
 
