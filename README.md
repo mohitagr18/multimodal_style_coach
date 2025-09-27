@@ -35,7 +35,7 @@ StyleCoach Agent (Orchestrator)
 | **StyleCoach Agent** | gemini-2.5-flash | Main orchestrator managing workflow |
 | **UserProfile Agent** | gemini-2.5-flash | Analyzes queries to infer age group and gender |
 | **InputAnalysis Agent** | gemini-2.5-flash | Extracts structured data from fashion item images |
-| **TrendResearch Agent** | gemini-1.5-flash | Researches trends using Google Search |
+| **TrendResearch Agent** | gemini-2.5-flash | Researches trends using Google Search |
 | **ItemSearch Tool** | - | Executes vector searches on product database |
 | **StylingReasoning Agent** | gemini-2.5-flash | Assembles outfits with detailed explanations |
 
